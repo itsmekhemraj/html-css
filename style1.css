@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-image: url(form.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)100%, rgba(0,0,0,0.5)100%, url(form.png));
+    color: rgb(177, 5, 5);
+}
+
+.form1{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 30px;  
+    color:blueviolet; 
+    border: 30px;
+}
+
+.form2{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form3{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form4{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form5{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form6{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form7{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form8{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form9{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.form10{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
+
+.btn{
+    width: 130px;
+    height: 40px;
+    background: #0e98a1;
+    border: 2px solid #fff;
+    margin-top: 13px;
+    color: rgb(19, 144, 194);
+    font-size: 15px;
+}
+
+.btn:focus{
+    outline: none;
+
+}
+
+.srch:focus{
+    outline: none;
+}
+
+button:hover{
+background:#fbfc;
+color: #000;
+}
+
+button{
+color: #0d7eee;
+padding: 10px 25px;
+background: transparent;
+border: 1px solid rgb(14, 13, 13);
+border-radius: 20px;
+outline: none;
+cursor: pointer;
+}
+
+.form11{
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: bold;
+    border-radius: 10px;
+    color:blueviolet;
+}
