@@ -67,29 +67,6 @@
         color: #995896;
     }
 
-    .search{
-        width: 330px;
-        float: left;
-        margin-left: 400px;
-        margin-top: -85px;
-    }
-
-    .srch{
-        font-family: 'Times New Roman';
-        width: 200px;
-        height: 40px;
-        background: transparent;
-        border: 1px solid #0c0b0c;
-        margin-top: 13px;
-        color: rgb(14, 13, 13);
-        border-right: 5px;
-        font-size: 16px;
-        float: left;
-        padding: 10px;
-        border-bottom-left-radius: 5px;
-        border-top-left-radius: 1px;
-    }
-
     .btn{
         width: 130px;
         height: 40px;
